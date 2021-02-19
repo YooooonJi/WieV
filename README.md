@@ -18,6 +18,7 @@
 
 ![DB](https://user-images.githubusercontent.com/49190094/108472670-68af1200-72d0-11eb-8b48-f14bb5037ba7.png)
 
+![db sql](https://user-images.githubusercontent.com/49190094/108473086-e96e0e00-72d0-11eb-802a-ad3df13d925d.png)
 #### 기술 스택
 
 ![기술스택](https://user-images.githubusercontent.com/49190094/108472751-80869600-72d0-11eb-83c2-7404e821896d.png)
