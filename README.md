@@ -16,11 +16,12 @@
 
 #### 데이터베이스
 
-![DB](/uploads/1d7f664bef197b5f2f3843e38c114664/DB.png)
+![DB](https://user-images.githubusercontent.com/49190094/108472670-68af1200-72d0-11eb-8b48-f14bb5037ba7.png)
 
 #### 기술 스택
 
-![기술스택](/uploads/4f0d10a7c199746150f3cb11b0d503fa/기술스택.png)
+![기술스택](https://user-images.githubusercontent.com/49190094/108472751-80869600-72d0-11eb-83c2-7404e821896d.png)
+
 
 ##### - Frontend 개발환경
 
