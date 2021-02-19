@@ -8,6 +8,12 @@
 
 ![홈화면최종1](https://user-images.githubusercontent.com/49190094/108472491-271e6700-72d0-11eb-9812-143231d04c49.gif)
 
+### 면접방
+
+![면접영상3](https://user-images.githubusercontent.com/49190094/108474875-4f5b9500-72d3-11eb-9c71-52de629527aa.gif)
+
+![관면접영상_면접](https://user-images.githubusercontent.com/49190094/108475478-166ff000-72d4-11eb-9808-5348afeca97d.gif)
+
 #### 면접 현황 및 생성
 
 ![공고최종2](https://user-images.githubusercontent.com/49190094/108472501-2ab1ee00-72d0-11eb-9ef7-c58a06b582ee.gif)
