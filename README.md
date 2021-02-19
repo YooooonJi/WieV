@@ -6,13 +6,13 @@
 
 #### 홈 화면
 
-![홈화면최종1](/uploads/d27f84c52fe9797e3c09d70f808ffa4b/홈화면최종1.gif)
+![홈화면최종1](https://user-images.githubusercontent.com/49190094/108472491-271e6700-72d0-11eb-9812-143231d04c49.gif)
 
 #### 면접 현황 및 생성
 
-![공고최종2](/uploads/9d5953fcc9f4b230a0b9683dd8cee902/공고최종2.gif)
+![공고최종2](https://user-images.githubusercontent.com/49190094/108472501-2ab1ee00-72d0-11eb-9ef7-c58a06b582ee.gif)
 
-![면접생성최종3](/uploads/69ac8169762db751eb2fa99ad3746f34/면접생성최종3.gif)
+![면접생성최종3](https://user-images.githubusercontent.com/49190094/108472496-2980c100-72d0-11eb-8974-d468beb9c383.gif)
 
 #### 데이터베이스
 
